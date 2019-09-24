@@ -23,3 +23,5 @@ The below Figures are present in the Plotted Figures Folder under WeatherPy Fold
 The HTML Data Frame & PDF Viewable Link is present inside the WeatherPy Folder.
 
 Note to TA : Kindly Open the HTML Data Frame Link in Browser.
+
+The City Output Data is present in the Output City Data Figures Folder under WeatherPy Folder.
